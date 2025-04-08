@@ -20,8 +20,8 @@
 
 ### 🌿 Visual Enhancements
 - [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) – Smooth, expressive mob animations
-- [Falling Leaves](https://modrinth.com/mod/falling-leaves-fabric) – Beautiful leaf particles
-- [Dynamic Lights](https://modrinth.com/mod/dynamiclights) – Real-time lighting effects
+- [Falling Leaves](https://modrinth.com/mod/fallingleaves) – Beautiful leaf particles
+- [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) – Better lamp light
 - [Continuity](https://modrinth.com/mod/continuity) – Connected textures support
 
 ### 🎨 Shaders & Resource Packs
